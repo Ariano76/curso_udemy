@@ -1,0 +1,10 @@
+ 
+ git config --global user.email percyher@hotmail.com
+ ls -- listar contenido carpeta
+ git clone https://github.com/Ariano76/curso_udemy.git -- clonar la carpeta github
+ cd curso_udemy  -- ir a la carpeta clonada
+ git add .  -- preparar la adicionar archivos
+ git commit -m "primer archivo python"  -- hacer un commit de los archivo añadidos
+ git push origin master  -- finalmente un push para subir los archivos
+ 
+ 
